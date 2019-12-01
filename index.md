@@ -37,7 +37,7 @@ Politecnico di Milan
 Researcher in autonomous dring lab
 Sep 2019-Apr 2020
 
-###Projects
+### Projects
 
 National Project of Bionic robot
 Sep 2015-Apr 2016
