@@ -3,19 +3,24 @@ Hello, I am Hui Lu, a master student studying machine learning. Currently, I am 
 
 
 ### What am I doing now?
-# Participate in an machine vision algorithm test with my friends, the algorithm will be used for autonomous driving in the field of autonomous driving.
-# Particpate in the work of High-resolution map, and writing my graduation thesis about the sensors (Lidar, camera, GPS) information fusion.
-# seeking for a position as a PHD student
+
+1.Participate in an machine vision algorithm test with my friends, the algorithm will be used for autonomous driving in the field of autonomous driving.
+
+2.Particpate in the work of High-resolution map, and writing my graduation thesis about the sensors (Lidar, camera, GPS) information fusion.
+
+3.seeking for a position as a PHD student
 
 
 
 ### skills
+
 Programming: c++, python, C
 Data Scienece: scikit, tensorflow, numpy, matplotlib, machine learning models
 Design: Solidworks, Catia
 
 
 ### Educatioin
+
 Northwestern Polytechnical University
 B.S. in machatronics and engineering
 Sep 2014-Sep 2017
