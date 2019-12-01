@@ -40,9 +40,17 @@ Sep 2019-Apr 2020
 ### Projects
 
 National Project of Bionic robot
-Sep 2015-Apr 2016
+Sep 2016-Apr 2018
 
 National Innovation Project of university student
-Sep 2016-May 2017
+Sep 2016-May 2018
 
 ### Awards
+
+Outstanding student scholarship in 2014
+Outstanding student scholarship in 2015
+Qizhen scholarship in 2016
+Second Prize of University Student Digital Model Competition in 2016
+Student Union Advanced Individual award in 2016
+Outstanding student scholarship in 2017
+Good award of national innovation project in 2018
