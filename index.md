@@ -74,6 +74,14 @@ Development of self-driving car with functions of remote operation control, auto
 - **Robustness test and noise analyse**, noise effect in images like raindrops, shadows, glare are reduced through post-processing
 - Based on ROS , realize data transfer, system feedback and information exchange.
 
+### INSTITUT FÜR STRUKTURMECHANIK UND LEICHTBAU in RWTH-Aachen (2017.9-2018.5)
+**Lightweighting Design**
+Study the influence of distribution pattern of graphene plate on the structural strength
+
+### Intelligent robot lab in Northwestern Polytechnical University (2016.9-2017.2)
+**Dynamic and static load test**
+Design the pattern of sensors distribution on robot and guarantee the accurate test of dynamic and static load
+
 # Skills
 - Programing Languages: C/C++, Python
 - Machine Learning Framework: TensorFlow, Keras, Pytorch, Scikit
