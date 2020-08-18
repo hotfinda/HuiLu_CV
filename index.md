@@ -9,7 +9,7 @@
       <p><b>address：Nr.127, youyixi Road, Xi'an，Shaanxi Province，China</b></p>
     </td>
     <td width="25%">
-      <img src="/简历.png" width="100%">
+      <img src="/HuiLu.png" width="100%">
     </td>
   </tr>
 </table>
