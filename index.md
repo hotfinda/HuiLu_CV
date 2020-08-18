@@ -1,9 +1,7 @@
-## Biography
-Hello, I am Hui Lu, a master student studying machine learning. Currently, I am studying in the team of professor Xiansheng Qin. Our team research area includes machine learning, machine vision, eletrical engineering, machine disign, etc. Up to now, the team has achiened many awards, and has gained wide reputation.
-
-
-### What am I doing now?
-
+### Objective
+Pursuing Ph.D admission in 2020 fall
+### Education
+Northwestern Polytechnical University
 1.Participate in an machine vision algorithm test with my friends, the algorithm will be used for autonomous driving in the field of autonomous driving.
 
 2.Particpate in the work of High-resolution map, and writing my graduation thesis about the sensors (Lidar, camera, GPS) information fusion.
