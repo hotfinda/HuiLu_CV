@@ -27,7 +27,7 @@ Northwestern Polytechnical University      (2018.9-2021.4)
 - Major GPA: 86 / 100 (Top 5%)
 
 RWTH Aachen University    (2017.9-2018.5)
-- Research Assistant in Mechanical Engineering, INSTITUT FÜR STRUKTURMECHANIK UND LEICHTBAU
+- Research assistant in Mechanical Engineering, INSTITUT FÜR STRUKTURMECHANIK UND LEICHTBAU
 
 Northwestern Polytechnical University      (2014.9-2018.7)
 - M.S. in Mechatronics Engineering, Honors College
@@ -44,7 +44,7 @@ Northwestern Polytechnical University      (2014.9-2018.7)
 International Conference on Computing and Pattern Recognition
 
 <br/>High resolution mapping based on instance segmentation</br>
-**Hui Lu**, Xiaoqun Tan
+**Hui Lu**, Xiaoqun Tan, Guanqi Ding
 International Conference on Intelligent Transportation Systems
 
 <br/>Development of a High Precision UWB/Vision-based AGV and control system</br>
@@ -56,7 +56,7 @@ International conference on mechatronics and automation
 Guanqi Ding, Jing Bai, **Hui Lu**
 
 
-# Projects&Experience
+# Projects & Experience
 
 ### Intelligent robot lab in Northwestern Polytechnical University（2020.3-）
 **Semantic SLAM based on binocular vision**  
@@ -73,13 +73,13 @@ Development of self-driving car with functions of remote operation control, auto
 - **Robustness test and noise analyse**, noise effect in images like raindrops, shadows, glare are reduced through post-processing
 - Based on ROS , realize data transfer, system feedback and information exchange.
 
-# skills
+# Skills
 - Programing Languages: C/C++, Python
 - Machine Learning Framework: TensorFlow, Keras, Pytorch, Scikit
 - Finite Element Analysis: ANSYS, ABAQUS
 - CAD Software: Solidworks, Catia
 
-# Honor&Awards
+# Honor & Awards
 
 - Northwestern Polytechnical University Graduate Innovation Seed Fund in 2020
 
