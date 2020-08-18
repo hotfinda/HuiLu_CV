@@ -44,16 +44,17 @@ Northwestern Polytechnical University      (2014.9-2018.7)
 International Conference on Computing and Pattern Recognition
 
 <br/>High resolution mapping based on instance segmentation</br>
-**Hui Lu**, Xiaoqun Tan, Guanqi Ding
+**Hui Lu**, Xiaoqun Tan, Guanqi Ding  
 International Conference on Intelligent Transportation Systems
 
 <br/>Development of a High Precision UWB/Vision-based AGV and control system</br>
-Guanqi Ding, **Hui Lu**, Jing Bai
+Guanqi Ding, **Hui Lu**, Jing Bai  
 International conference on control and robotics engineering
 
 <br/>Vision-based edge-line Assisted Moving Vehicle Detection</br>
+Guanqi Ding, Jing Bai, **Hui Lu**  
 International conference on mechatronics and automation
-Guanqi Ding, Jing Bai, **Hui Lu**
+
 
 
 # Projects & Experience
