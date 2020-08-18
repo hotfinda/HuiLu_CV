@@ -57,22 +57,21 @@ Guanqi Ding, Jing Bai, **Hui Lu**
 
 
 # Projects&Experience
+
+#### autonomus lab in Politecnico di Milano（2013.9~2017.6）
+- **Teinvein self-driving project**  
+Multiple lane line detecting, providing lane line pixels coordinate information for control system based on deep learning methods, funded by 意法半导体
+- Build multi-task deep network to process images captured by binocular camera, and realize instance segmentation for lane lines in images.
+- Test the robustness of algorithm and reduce noise effect like lane departure situation, shadows, glare,etc.
+- Based on ROS , realiz e data transfer and provide help for feature detection and semantic segmentation SLAM map reconstruction
+
+#### Intelligent Robot Lab Northwestern Polytechnical University（2013.9~2017.6）
+- **National College Students' innovation program**  
 National Project of Bionic robot
 Sep 2016-Apr 2018
 
 National Innovation Project of university student
 Sep 2016-May 2018
-#### 公司/学校/研究所（2013.9~2017.6）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
-
-#### 公司/学校/研究所（2017.9~至今）
-- **项目1**  
-项目描述
-- **项目2**  
-项目描述
 
 
 
