@@ -35,7 +35,7 @@ Northwestern Polytechnical University      (2014.9-2018.7)
 - Major GPA: 89 / 100 (Top 5%)
 
 # Publications
-<br/>A Real-time multi-lane detection approach using features geometric uncertainty and stereo vision</br>
+A Real-time multi-lane detection approach using features geometric uncertainty and stereo vision  
 **Hui Lu**, Guanqi Ding, Xiaoqun Tan
 <br/>The international conference on control and robotics engineering</br>
 
