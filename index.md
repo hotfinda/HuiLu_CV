@@ -58,31 +58,20 @@ Guanqi Ding, Jing Bai, **Hui Lu**
 
 # Projects&Experience
 
-## Intelligent robot lab in Northwestern Polytechnical University（2020.3-）
+### Intelligent robot lab in Northwestern Polytechnical University（2020.3-）
 **Semantic SLAM based on binocular vision**  
 Utilizing the semantic information of objects to establish a labeled environment map to realize the functions of object detection and classification, tracking navigation, and rapid robot positioning.
-**Semantic segmentation based on deep learning**, aims to classify objects in 2D images and provide semantic pixels for control system.
-**Semantic mapping**, combining 2D semantic information with 3D construction for environment, proving point cloud data for navigation and position.
-Robustness test and noise analyse, calculating the accuaracy of algorithm under multiple noise effect, and reducing the noise effect through post-processing.
+- **Semantic segmentation based on deep learning**, aims to classify objects in 2D images and provide semantic pixels for control system.
+- **Semantic mapping**, combining 2D semantic information with 3D construction for environment, proving point cloud data for navigation and position.
+- Robustness test and noise analyse, calculating the accuaracy of algorithm under multiple noise effect, and reducing the noise effect through post-processing.
 
-## Autonomus lab in Politecnico di Milano（2019.9-2020.3）
+### Autonomus lab in Politecnico di Milano（2019.9-2020.3）
 **Teinvein self-driving project**  
 Development of self-driving car with functions of remote operation control, automatic GPS navigation and positioning, lane line tracking navigation, and obstacle detection, funded by STMicroelectronics Company
 - **Multiple lane line detecting**, providing lane line pixels coordinate information for control system based on deep learning methods, complicated situation such as lane line departure, fading lane lines are concluded.
 - **Obstacle detection**, images captured by binocular camera are processed through Yolo3 network, and related coordinate information is tranfered to control system.
 - **Robustness test and noise analyse**, noise effect in images like raindrops, shadows, glare are reduced through post-processing
 - Based on ROS , realize data transfer, system feedback and information exchange.
-
-
-## Intelligent Robot Lab Northwestern Polytechnical University（2013.9~2017.6）
-**National College Students' innovation program**  
-National Project of Bionic robot
-Sep 2016-Apr 2018
-
-National Innovation Project of university student
-Sep 2016-May 2018
-
-
 
 # skills
 - Programing Languages: C/C++, Python
