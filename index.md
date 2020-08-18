@@ -18,18 +18,18 @@
 # Objective
 Pursuing Ph.D admission in 2020 fall
 # Education
-Politechnico di Milano    (Sep 2019-Apr 2020)
+Politechnico di Milano    (2019.9-2020.3)
 - Visiting scholar, autonomous lab at department of mechanical engineering
 
-Northwestern Polytechnical University      Sep 2018-Jun 2021
+Northwestern Polytechnical University      (2018.9-2021.4)
 - M.S. in Mechatronics Engineering, School of Mechanical Engineering
 - Project 985, Project 211,Class A in Double First-Class University
 - Major GPA: 86 / 100 (Top 5%)
 
-RWTH Aachen University    Sep 2017-Jun 2018
+RWTH Aachen University    (2017.9-2018.5)
 - Research Assistant in Mechanical Engineering, INSTITUT FÜR STRUKTURMECHANIK UND LEICHTBAU
 
-Northwestern Polytechnical University      Sep 2014-Sep 2017
+Northwestern Polytechnical University      (2014.9-2018.7)
 - M.S. in Mechatronics Engineering, Honors College
 - Project 985, Project 211,Class A in Double First-Class University
 - Major GPA: 89 / 100 (Top 5%)
@@ -58,15 +58,24 @@ Guanqi Ding, Jing Bai, **Hui Lu**
 
 # Projects&Experience
 
-#### autonomus lab in Politecnico di Milano（2013.9~2017.6）
-- **Teinvein self-driving project**  
-Multiple lane line detecting, providing lane line pixels coordinate information for control system based on deep learning methods, funded by 意法半导体
-- Build multi-task deep network to process images captured by binocular camera, and realize instance segmentation for lane lines in images.
-- Test the robustness of algorithm and reduce noise effect like lane departure situation, shadows, glare,etc.
-- Based on ROS , realiz e data transfer and provide help for feature detection and semantic segmentation SLAM map reconstruction
+## Intelligent robot lab in Northwestern Polytechnical University（2020.3-）
+**Semantic SLAM based on binocular vision**  
+Utilizing the semantic information of objects to establish a labeled environment map to realize the functions of object detection and classification, tracking navigation, and rapid robot positioning.
+**Semantic segmentation based on deep learning**, aims to classify objects in 2D images and provide semantic pixels for control system.
+**Semantic mapping**, combining 2D semantic information with 3D construction for environment, proving point cloud data for navigation and position.
+Robustness test and noise analyse, calculating the accuaracy of algorithm under multiple noise effect, and reducing the noise effect through post-processing.
 
-#### Intelligent Robot Lab Northwestern Polytechnical University（2013.9~2017.6）
-- **National College Students' innovation program**  
+## Autonomus lab in Politecnico di Milano（2019.9-2020.3）
+**Teinvein self-driving project**  
+Development of self-driving car with functions of remote operation control, automatic GPS navigation and positioning, lane line tracking navigation, and obstacle detection, funded by STMicroelectronics Company
+- **Multiple lane line detecting**, providing lane line pixels coordinate information for control system based on deep learning methods, complicated situation such as lane line departure, fading lane lines are concluded.
+- **Obstacle detection**, images captured by binocular camera are processed through Yolo3 network, and related coordinate information is tranfered to control system.
+- **Robustness test and noise analyse**, noise effect in images like raindrops, shadows, glare are reduced through post-processing
+- Based on ROS , realize data transfer, system feedback and information exchange.
+
+
+## Intelligent Robot Lab Northwestern Polytechnical University（2013.9~2017.6）
+**National College Students' innovation program**  
 National Project of Bionic robot
 Sep 2016-Apr 2018
 
