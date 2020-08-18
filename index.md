@@ -68,19 +68,19 @@ Utilizing the semantic information of objects to establish a labeled environment
 
 ### Autonomus lab in Politecnico di Milano（2019.9-2020.3）
 **Teinvein self-driving project**  
-Development of self-driving car with functions of remote operation control, automatic GPS navigation and positioning, lane line tracking navigation, and obstacle detection, funded by STMicroelectronics Company
+Development of self-driving car with functions of remote operation control, automatic GPS navigation and positioning, lane line tracking navigation, and obstacle detection, funded by STMicroelectronics Company.
 - **Multiple lane line detecting**, providing lane line pixels coordinate information for control system based on deep learning methods, complicated situation such as lane line departure, fading lane lines are concluded.
 - **Obstacle detection**, images captured by binocular camera are processed through Yolo3 network, and related coordinate information is tranfered to control system.
-- **Robustness test and noise analyse**, noise effect in images like raindrops, shadows, glare are reduced through post-processing
+- **Robustness test and noise analyse**, noise effect in images like raindrops, shadows, glare are reduced through post-processing.
 - Based on ROS , realize data transfer, system feedback and information exchange.
 
-### INSTITUT FÜR STRUKTURMECHANIK UND LEICHTBAU in RWTH-Aachen (2017.9-2018.5)
-**Lightweighting Design**
-Study the influence of distribution pattern of graphene plate on the structural strength
+### INSTITUT FÜR STRUKTURMECHANIK UND LEICHTBAU in RWTH-Aachen (2017.9-2018.5) 
+**Lightweighting Design**  
+Study the influence of distribution pattern of graphene plate on the structural strength.
 
-### Intelligent robot lab in Northwestern Polytechnical University (2016.9-2017.2)
-**Dynamic and static load test**
-Design the pattern of sensors distribution on robot and guarantee the accurate test of dynamic and static load
+### Intelligent robot lab in Northwestern Polytechnical University (2016.9-2017.2) 
+**Dynamic and static load test**  
+Design the pattern of sensors distribution on robot and guarantee the accurate test of dynamic and static load.
 
 # Skills
 - Programing Languages: C/C++, Python
