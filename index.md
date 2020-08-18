@@ -36,24 +36,24 @@ Northwestern Polytechnical University      (2014.9-2018.7)
 
 # Publications
 A Real-time multi-lane detection approach using features geometric uncertainty and stereo vision  
-**Hui Lu**, Guanqi Ding, Xiaoqun Tan
-<br/>The international conference on control and robotics engineering</br>
+**Hui Lu**, Guanqi Ding, Xiaoqun Tan  
+The international conference on control and robotics engineering  
 
-<br/>A modular lane detection method based on scene understanding</br>
+A modular lane detection method based on scene understanding  
 **Hui Lu**, Xiaoqun Tan  
-International Conference on Computing and Pattern Recognition
+International Conference on Computing and Pattern Recognition  
 
-<br/>High resolution mapping based on instance segmentation</br>
+High resolution mapping based on instance segmentation  
 **Hui Lu**, Xiaoqun Tan, Guanqi Ding  
-International Conference on Intelligent Transportation Systems
+International Conference on Intelligent Transportation Systems  
 
-<br/>Development of a High Precision UWB/Vision-based AGV and control system</br>
+Development of a High Precision UWB/Vision-based AGV and control system  
 Guanqi Ding, **Hui Lu**, Jing Bai  
-International conference on control and robotics engineering
+International conference on control and robotics engineering  
 
-<br/>Vision-based edge-line Assisted Moving Vehicle Detection</br>
+Vision-based edge-line Assisted Moving Vehicle Detection  
 Guanqi Ding, Jing Bai, **Hui Lu**  
-International conference on mechatronics and automation
+International conference on mechatronics and automation  
 
 
 
