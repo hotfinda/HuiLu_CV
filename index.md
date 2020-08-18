@@ -16,7 +16,7 @@
 </div>
 
 # Objective
-Pursuing Ph.D admission in 2020 fall
+Pursuing Ph.D admission in 2021 fall
 # Education
 Politechnico di Milano    (2019.9-2020.3)
 - Visiting scholar, autonomous lab at department of mechanical engineering
