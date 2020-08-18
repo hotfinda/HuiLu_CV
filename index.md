@@ -82,19 +82,30 @@ Sep 2016-May 2018
 - CAD Software: Solidworks, Catia
 
 # Honor&Awards
-- Outstanding student scholarship in 2014
 
-- Outstanding student scholarship in 2015
+- Northwestern Polytechnical University Graduate Innovation Seed Fund in 2020
 
-- Qizhen scholarship in 2016
+- University Scholarship for outstanding postgraduate researcher in 2019
 
-- Second Prize of University Student Digital Model Competition in 2016
+- University Scholarship of Northwestern Polytechnical University in 2019
 
-- Student Union Advanced Individual award in 2016
+- Good award for national innovation project in 2018
+
+- CSC Scholarship for outstanding undergraduates in 2017
 
 - Outstanding student scholarship in 2017
 
-- Good award of national innovation project in 2018
+- Qizhen scholarship of Northwestern Polytechnical University in 2016
+
+- Second Prize of University Student Digital Model Competition in 2016
+
+- Individual award of Student Union of Northwestern Polytechnical University in 2016
+
+- University Scholarship of Northwestern Polytechnical University in 2015
+
+- University Scholarship of Northwestern Polytechnical University in 2014
+
+
 
 
 
