@@ -88,6 +88,11 @@ Design the pattern of sensors distribution on robot and guarantee the accurate t
 - Finite Element Analysis: ANSYS, ABAQUS
 - CAD Software: Solidworks, Catia
 
+# Languages
+- Mandarin Chinese (Native speaker)
+- English (IELTS 7.0)
+- German (TestDaf 15)
+
 # Honor & Awards
 
 - Northwestern Polytechnical University Graduate Innovation Seed Fund in 2020
