@@ -60,11 +60,12 @@ International conference on mechatronics and automation
 # Projects & Experience
 
 ### Intelligent robot lab in Northwestern Polytechnical University（2020.3-）
-**Semantic SLAM based on binocular vision**  
-Utilizing the semantic information of objects to establish a labeled environment map to realize the functions of object detection and classification, tracking navigation, and rapid robot positioning.
-- **Semantic segmentation based on deep learning**, aims to classify objects in 2D images and provide semantic pixels for control system.
-- **Semantic mapping**, combining 2D semantic information with 3D construction for environment, proving point cloud data for navigation and position.
-- Robustness test and noise analyse, calculating the accuaracy of algorithm under multiple noise effect, and reducing the noise effect through post-processing.
+**Drone intelligent navigation project**  
+Collecting the semantic information of surroudings to establish a semantic map to make drone fly safely and resilient。
+- **Semantic segmentation based on deep learning**, aims to classify objects in 2D images captured by drones and provide semantic pixels for the visual system.
+- **Semantic map construction**, combining semantic pixels and 3D construction for environment, providing coordinate and semantic information for navigation
+- Exchange with drone control system, utilizing the feedback from drone control system, adjust the drones in realtime.
+- Robustness test and noise analyse, testing the reliablity of system under multiple noise effect, and reducing the noise effect through post-processing.
 
 ### Autonomus lab in Politecnico di Milano（2019.9-2020.3）
 **Teinvein self-driving project**  
@@ -72,15 +73,15 @@ Development of self-driving car with functions of remote operation control, auto
 - **Multiple lane line detecting**, providing lane line pixels coordinate information for control system based on deep learning methods, complicated situation such as lane line departure, fading lane lines are concluded.
 - **Obstacle detection**, images captured by binocular camera are processed through Yolo3 network, and related coordinate information is tranfered to control system.
 - **Robustness test and noise analyse**, noise effect in images like raindrops, shadows, glare are reduced through post-processing.
-- Based on ROS , realize data transfer, system feedback and information exchange.
+- **System control Based on coordinate information**, utilizing the information in ROS topic, realize data transfer,system feedback and information exchange.
 
 ### INSTITUT FÜR STRUKTURMECHANIK UND LEICHTBAU in RWTH-Aachen (2017.9-2018.5) 
 **Lightweighting Design**  
-Study the influence of distribution pattern of graphene plate on the structural strength.
+Lightweight design based on graphene material. Study the influence of graphene plate on the structural strength
 
 ### Intelligent robot lab in Northwestern Polytechnical University (2016.9-2017.2) 
-**Dynamic and static load test**  
-Design the pattern of sensors distribution on robot and guarantee the accurate test of dynamic and static load.
+**Motor control** ，Using the IDE for the motor, programming the link to the aircraft control system
+**Route plan in urban regions**. Based on octomap and global planner, generate way points connected by spline lgorithms
 
 # Skills
 - Programing Languages: C/C++, Python
